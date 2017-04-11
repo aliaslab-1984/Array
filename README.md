@@ -42,7 +42,7 @@ returns an object obtained from the element
 
 must return an array, obtained from the element
 
-#Example
+# Example
 
 <pre>
 
